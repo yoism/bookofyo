@@ -112,6 +112,7 @@ All of us need help in our own liberation.
 Some of us have always dreamed of being artists or entrepeneurs , but feel trapped by the burden of college debt in jobs that rob our souls -- as investment bankers, lawyers, and careful professionals of all types. Some of us have dreamed of starting our own businesses, businesses with a social purpose, and we need to be given the resources and support to take the risks to make these businesses come alive. Some of us have skills that most can only dream of -- we are great musicians, but we are crushed by our own self-doubt, by our lack of support, and we learn to stop trying, to stop dreaming of our own greatness.
 Imagine a liberated world, a world in which children are shown how to discover themselves, not according to some stereotype or according to the profit needs of a capitalistic machine, but how to engage the soul quest, how to brave the struggles and suffer the pains of true adventure. Imagine a world that encourages real solutions to hard problems.
 We are responsible for each other. Together, we can improve our lives and our world-- if we can learn to love and care for each other, if we can learn to rest and rely on each other, if we can unlearn the myth of independence, which divides us and keeps us weak, for the reality of interdependence, which is the way of the universe.
+
 Chapter 1: Welcome To Yoism
 Who are We?
 We are a community of individuals brought together by our shared understanding of our present situation, and a common vision for our future.
@@ -158,6 +159,7 @@ We believe the following central tenets are essential in helping us to avoid thi
 4. We enshrine human divinity in our system of values. This includes all human beings, even those who disagree with us.
 5. We never forget the danger inherent in any group that revolves around shared beliefs.
 6. We place the Open Source Truth Process at the center of our community, guiding our purpose and our actions in the world.
+
 Chapter 2: Empiricism -- Going Beyond (and Toward) the "One True Religion"
 There is a story about a man who gave up everything to search for the “meaning of life.”
 Finally, he found a guru with a twinkle in his eye, whose every movement demonstrated his enlightened state. The man served this guru for many, many years, until the day when his guru was on his deathbed. On this day, the man panicked as he realized he had never fully discovered the meaning of life and his guru was about to die. He begged his guru to tell him clearly before he could no longer. His guru struggled to speak and with one of his last breaths, he said, “Life, my son, is a beanstalk.”
@@ -250,6 +252,7 @@ However, we already know that people often have feelings about how the world wor
 By denying the existence of death, by hanging on to the notion of some sort of continued personal existence after death, we make it impossible to truly spiritually prepare for death. By accepting the apparent reality, we can really prepare ourselves, and achieve a deeper appreciation of every moment of our lives.
 Open-mindedness
 One of the most important aspects of our exploration of reality is that we keep our minds open. There is always the possibility of acquiring new evidence which leads us to new and different understandings. By acting on the knowledge we currently have, we are not saying that we must assume our understandings are correct! There always exists the possibility of one day discovering that all our current truths are indeed wrong. One of the central tenets of Yoism is for there to be no dogma. Only by keeping our minds continually open to new possibilities can we live up to that goal.
+
 Chapter 3: Community– The Open Source Truth Process
 And if I am to carry on the inquiry by myself, I will first of all remark that . . . all of us should have an ambition to know what is true and what is false . . . for the discovery of the truth is a common good. And now I will proceed to argue according to my own notion. But if any of you think that I arrive at conclusions which are untrue you must interpose and refute me, for I do not speak from any certain knowledge of what I am saying; I am an enquirer like yourselves, and therefore, if my opponent says anything which is of force, I shall be the first to agree with him.
 Socrates, in Plato's Dialogue, Gorgias
@@ -321,6 +324,7 @@ This fear is serious and legitimate. But there is more. We also fear losing ours
 Yoism is the first religion in history whose community holds these fears at the center of their faith. We will always remember that our truths are never fixed. We will always honor the divinity of every human being. We will never persecute others because they do not believe what we believe.
 With this, we have the freedom and the power to believe that we are right. Such belief comes with great and grave responsibility, and yet we must believe we are right if we are ever to have impact in this world. Our Truth is built on the direct word of God, on Reality as it is presented to us. Ours is a Truth that is not dogmatically accepted for all time but one that is forever being revised by what we learn from the Face of God Yoself.
 We know our way is better than so many others. We wield truth. We must face up to our fear and have the courage to be righteous. We must speak our truth and inspire others. Dare we not?
+
 Chapter 4: Meaning
 Our exploration of truth will only get us so far. Empirically justified truths are simply models for getting what we want most effectively, not for figuring out what it is that we want in the first place. Without our values -- our desires, our wishes for what we want from the world -- then our understanding of how the world works and how we can affect it effectively -- in other words, our understanding of truth -- is simply quite useless. The empirical method does not work for understanding and determining our values. Our process for determining our values, our ends, our desires -- ourmeaning -- does not conform at all to a set formula. However this exploration is no less central to Yoism -- encouraging and fostering a culture of deep introspection toward understanding our meaning is crucial to our vision of a large community empowered to change the world for the better. We can help each other explore our meaning together, we can encourage experimentation, we can share with each other the paths that work, and we can articulate our discoveries collectively.
 Who and what am I?
@@ -399,6 +403,7 @@ However, meaning and ends are much more subjective than truth. So how do we deci
 For example, many issues will combine disagreements about both meaning and truth. The question of whether the Yoan community should support abortion is a question of ends and means, meaning and truth. Is protecting every potential human consciousness an end which the community considers important? Or does the community put a higher value on protecting the consciousnesses that currently exist? This is a question of meaning. When we look into our souls, what do we value more. On the other hand, when does consciousness begin? And does the community see value in the notion that using birth control or aborting a fetus is contradicting God's will? Is there a God who feels abortion is evil, and can values be derived from following the dictates of such a God? These are questions of truth.
 Thus a complex question of abortion will have many facets worth considering for the community. Does that mean that the community cannot come to a decision on the issue? Not necessarily. In every important issue worth taking a stand on, there will probably be at least some irresolvable disagreements within our community. We are working to develop some sort of modified consensus that will allow the community to take action, while preserving the valuable disagreements that are unavoidable in a community which recognizes the worth of individual experience. If we do not create such a process then after our group grows past a trivial size, we will never be able to act.
 Because Yoism is a non-dogmatic religion, there will be conflict and uncertainty in everything our community says and does. Our entire process is built around uncovering and resolving conflicts -- a process that makes cooperation possible in the context of conflicts that will never disappear. The aim of our modified consensus process is to air all the issues so they can be discussed and understood by our community and so that we can make sound decisions. Incorporating and accounting for disagreements is built into our decision making process itself.
+
 Chapter 5: Reclaiming GOD
 A Story of Creation
 "God is the word that speaks itself."
@@ -475,6 +480,7 @@ In your veins
 Till you are clothed
 With the heavens
 And crowned with the stars.5
+
 Chapter 6: Why Me? Why Yoism?
 A Declaration of Inter-Dependence
 When, in the course of human events, it becomes necessary for a people to advance from that subordination in which they have hitherto remained, and to assume among the powers of the earth the equal and independent station to which the laws of nature and of nature's god entitle them, a decent respect to the opinions of mankind requires that they should declare the causes which impel them to the change
