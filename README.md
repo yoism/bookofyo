@@ -9,6 +9,7 @@ Version 0.2
 
 
 Table of Contents
+
 The Book of Yo 3
 Introduction 4
 Chapter 1: Welcome To Yoism 5
