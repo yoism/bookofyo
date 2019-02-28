@@ -11,48 +11,89 @@ Version 0.2
 Table of Contents
 
 The Book of Yo 3
+
 Introduction 4
+
 Chapter 1: Welcome To Yoism 5
+
 Who are We? 5
+
 The Main Beliefs of Yoism 5
+
 Ten Sacred Truths, Principles, and Goals of Yoism 6
+
 The Open Source Truth Process 7
+
 What Makes Yoism Unique? 7
+
 Chapter 2: Empiricism -- Going Beyond (and Toward) the "One True Religion" 9
+
 Truth 9
+
 A Thought Experiment 10
+
 Models 12
+
 Determining Our Beliefs 13
+
 Good Evidence 14
+
 The Importance of Occam's Razor 15
+
 The Afterlife 16
+
 Open-mindedness 18
+
 Chapter 3: Community– The Open Source Truth Process 18
+
 Open Source Software 19
+
 Open Source Truth 20
+
 Consensual Truth Making: Embracing Conflict 20
+
 Open Source Truth In Action: Revising The Book of Yo 21
+
 Book Yoans 22
+
 Becoming a Book Yoan 22
+
 Proclaiming the Truth Together: Overcoming the Fear of Religion 23
+
 Chapter 4: Meaning 26
+
 Who and what am I? 26
+
 What do you mean by "Meaning"? 27
+
 The Exploration 28
+
 Deep Importance 30
+
 Gatherings 31
+
 Community Agreements About What Is Important 32
+
 The Process For Coming To These Articulations 34
+
 Chapter 5: Reclaiming GOD 36
+
 A Story of Creation 36
+
 Traditional Religion 37
+
 Enlightenment 38
+
 The Nature of God 40
+
 Reclaiming Your Godliness 43
+
 Chapter 6: Why Me? Why Yoism? 46
+
 A Declaration of Inter-Dependence 46
 
 The Book of Yo
+
 The Book of Yo is, fundamentally, a work in progress.
 It aims to articulate the Yoan community's collective understanding about the world, as a common foundation for our actions.
 Nevertheless, the Book of Yo is always and forever under revision, as successive versions are produced through the Open Source Truth Process.
